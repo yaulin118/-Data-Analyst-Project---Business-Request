@@ -12,3 +12,6 @@ The budget is for 2021 and we usually look 2 years back in time when we do an an
 Let me know if you need anything else!
 
 // Tommy
+
+Data source - https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
+AdventureWorksDW2019.bak
