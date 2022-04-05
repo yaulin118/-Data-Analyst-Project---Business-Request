@@ -1,5 +1,5 @@
 # -Data-Analyst-Project---Business-Request
--- This is a sales report request from a sales manager at XYZ company. He is looking for help to build a report with the following request:
+This is a sales report request from a sales manager at XYZ company. He is looking for help to build a report with the following request:
 
 Tommy - Sales Manager:
 
